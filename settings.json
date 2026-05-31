@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "free-in.javixnode.fun",
-    "port": 3028,
+    "port": 30,
     "version": "1.20.1",
     "try-creative": false
   },
